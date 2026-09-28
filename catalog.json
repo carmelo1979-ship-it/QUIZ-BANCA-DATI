@@ -8,13 +8,13 @@
                     {
                         "id_ruolo": "id_area_giuridica",
                         "nome": "Area Giuridica",
-                        "prezzo_tutto": 0.0,
+                        "prezzo_tutto": 0,
                         "materie": []
                     },
                     {
                         "id_ruolo": "id_motorista_navale",
                         "nome": "Motorista Navale",
-                        "prezzo_tutto": 0.0,
+                        "prezzo_tutto": 0,
                         "materie": []
                     }
                 ],
