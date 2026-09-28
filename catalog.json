@@ -1,0 +1,127 @@
+[
+    {
+        "categoria": "Privato",
+        "sotto_categorie": [
+            {
+                "nome": "Standardizzazione",
+                "ruoli": [
+                    {
+                        "id_ruolo": "id_area_giuridica",
+                        "nome": "Area Giuridica",
+                        "prezzo_tutto": 0.0,
+                        "materie": []
+                    },
+                    {
+                        "id_ruolo": "id_motorista_navale",
+                        "nome": "Motorista Navale",
+                        "prezzo_tutto": 0.0,
+                        "materie": []
+                    }
+                ],
+                "prezzo_tutto": 1.99
+            }
+        ]
+    },
+    {
+        "categoria": "Forze Armate",
+        "sotto_categorie": [
+            {
+                "nome": "GdF",
+                "ruoli": [
+                    {
+                        "id_ruolo": "id_app_&_fin",
+                        "nome": "App & Fin",
+                        "prezzo_tutto": 9.99,
+                        "materie": [
+                            {
+                                "id_materia": "id_storia",
+                                "nome": "Storia",
+                                "prezzo_materia": 4.99,
+                                "quiz": [
+                                    {
+                                        "id": "costituzione_italiana",
+                                        "title": "la costituzione",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/d465252bc3f1c30ca7c3d65f17f0c928/raw/costituzione_italiana.bin"
+                                    },
+                                    {
+                                        "id": "ww1_med",
+                                        "title": "La Grande Guerra: Un Conflitto Globale",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/de4bee12492ce1c02679dd96befb1ef6/raw/ww1_med.bin"
+                                    },
+                                    {
+                                        "id": "regimi_totalitari",
+                                        "title": "avvento regimi totalitari",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/4e5c5b1929f7a746e3459e43807f821b/raw/regimi_totalitari.bin"
+                                    },
+                                    {
+                                        "id": "architettura_istituzionale_ue",
+                                        "title": "Istituzioni, organi e organismi dell'Unione Europea",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/c6d49f3fabc4f0b885b17572c4115fcd/raw/architettura_istituzionale_ue.bin"
+                                    },
+                                    {
+                                        "id": "La Seconda Guerra Mondiale; la guerra di liberazione",
+                                        "title": "La Seconda Guerra Mondiale",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/36a8d177c4d6ac1b1c32894e94ebe829/raw/La Seconda Guerra Mondiale; la guerra di liberazione.bin"
+                                    },
+                                    {
+                                        "id": "costituente_italiana",
+                                        "title": "L'Assemblea Costituente Italiana",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/93b2becb092c94ac3dccef4c1effb725/raw/costituente_italiana.bin"
+                                    },
+                                    {
+                                        "id": "O.N.U.",
+                                        "title": "Organizzazione delle Nazioni Unite",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/61c0810a678d63f0eb2f5a0f844d1f24/raw/O.N.U..bin"
+                                    },
+                                    {
+                                        "id": "unione_europea",
+                                        "title": "Unione Europea: Storia, Istituzioni e Funzionamento",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/d8912c0b31e6202fe088c2dacbfdb0af/raw/unione_europea.bin"
+                                    },
+                                    {
+                                        "id": "nato_patto_varsavia",
+                                        "title": "Organizzazione (NATO) e Patto di Varsavia",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/973dc3fb0a41c7f9aa737b402f9fa07a/raw/nato_patto_varsavia.bin"
+                                    },
+                                    {
+                                        "id": "decolonizzazione_sottosviluppo",
+                                        "title": "decolonizzazione e neocolonizzazione",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/9aa47afd1281e23e8294a00793e3b952/raw/decolonizzazione_sottosviluppo.bin"
+                                    },
+                                    {
+                                        "id": "sviluppo_economico",
+                                        "title": "lo sviluppo economico anni 50 e 60",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/177fc7a12429e90a0901253dec03a649/raw/sviluppo_economico.bin"
+                                    },
+                                    {
+                                        "id": "regimi_comunisti_europa",
+                                        "title": "Il Crollo dei Regimi Comunisti nell'Europa dell'Est",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/09579a2db709fe481981736d47e1d9ca/raw/regimi_comunisti_europa.bin"
+                                    },
+                                    {
+                                        "id": "deb-pubblico_inflazione_disoccupazione",
+                                        "title": "problemi della societò contemporanea",
+                                        "price": 0.99,
+                                        "url": "https://gist.githubusercontent.com/carmelo1979-ship-it/1ffaf73f1bff5683025186b280c93ce2/raw/deb-pubblico_inflazione_disoccupazione.bin"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
