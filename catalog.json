@@ -12916,103 +12916,96 @@
             "nome": "vela",
             "id_ruolo": "vela",
             "prezzo_tutto": 0.99,
-            "materie": [
+            "quiz": [
               {
-                "nome": "Generale",
-                "id_materia": "generale",
-                "prezzo_tutto": 0.99,
-                "quiz": [
-                  {
-                    "id": "privato_standardizzazione_vela_antincendio_e_sicurezza",
-                    "title": "Antincendio e Sicurezza",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Antincendio%20e%20Sicurezza.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_armi",
-                    "title": "Armi",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Armi.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_attrezzatura_e_manovra",
-                    "title": "Attrezzatura e manovra",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Attrezzatura%20e%20manovra.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_avarie_e_manutenzioni",
-                    "title": "Avarie e Manutenzioni",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Avarie%20e%20Manutenzioni.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_c4i",
-                    "title": "C4I",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/C4I.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_caratteristiche_uunn",
-                    "title": "Caratteristiche UUNN",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Caratteristiche%20UUNN.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_carenamento",
-                    "title": "Carenamento",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Carenamento.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_carteggio_ufficio",
-                    "title": "Carteggio ufficio",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Carteggio%20ufficio.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_gestione_motori_e_ausiliari",
-                    "title": "Gestione motori e ausiliari",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Gestione%20motori%20e%20ausiliari.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_impianti_di_bordo",
-                    "title": "Impianti di bordo",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Impianti%20di%20bordo.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_nautica",
-                    "title": "Nautica",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Nautica.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_ormeggi_navali",
-                    "title": "Ormeggi navali",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Ormeggi%20navali.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_pmarr",
-                    "title": "PMARR",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/PMARR.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_scritture_e_registri",
-                    "title": "Scritture e registri",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Scritture%20e%20registri.bin"
-                  },
-                  {
-                    "id": "privato_standardizzazione_vela_telecomunicazioni_e_app",
-                    "title": "Telecomunicazioni e app",
-                    "price": 0.99,
-                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Telecomunicazioni%20e%20app.bin"
-                  }
-                ]
+                "id": "privato_standardizzazione_vela_antincendio_e_sicurezza",
+                "title": "Antincendio e Sicurezza",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Antincendio%20e%20Sicurezza.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_armi",
+                "title": "Armi",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Armi.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_attrezzatura_e_manovra",
+                "title": "Attrezzatura e manovra",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Attrezzatura%20e%20manovra.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_avarie_e_manutenzioni",
+                "title": "Avarie e Manutenzioni",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Avarie%20e%20Manutenzioni.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_c4i",
+                "title": "C4I",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/C4I.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_caratteristiche_uunn",
+                "title": "Caratteristiche UUNN",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Caratteristiche%20UUNN.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_carenamento",
+                "title": "Carenamento",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Carenamento.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_carteggio_ufficio",
+                "title": "Carteggio ufficio",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Carteggio%20ufficio.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_gestione_motori_e_ausiliari",
+                "title": "Gestione motori e ausiliari",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Gestione%20motori%20e%20ausiliari.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_impianti_di_bordo",
+                "title": "Impianti di bordo",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Impianti%20di%20bordo.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_nautica",
+                "title": "Nautica",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Nautica.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_ormeggi_navali",
+                "title": "Ormeggi navali",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Ormeggi%20navali.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_pmarr",
+                "title": "PMARR",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/PMARR.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_scritture_e_registri",
+                "title": "Scritture e registri",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Scritture%20e%20registri.bin"
+              },
+              {
+                "id": "privato_standardizzazione_vela_telecomunicazioni_e_app",
+                "title": "Telecomunicazioni e app",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Telecomunicazioni%20e%20app.bin"
               }
             ]
           },
