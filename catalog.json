@@ -15990,6 +15990,690 @@
                     ]
                   }
                 ]
+              },
+              {
+                "nome": "PERSONALE NON IMBARCATO",
+                "prezzo_tutto": 0.99,
+                "sotto_categorie": [
+                  {
+                    "nome": "STL",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804200797_8705",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200799_2617",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200808_5063",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200811_4301",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200815_571",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200819_1695",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200832_6579",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200837_7296",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200845_9336",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200848_3933",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200854_6937",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200864_651",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200869_1017",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200873_2568",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/STL/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SQUADRA OPERATIVA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804200888_50",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200892_3469",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200895_7810",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200897_9420",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200899_7190",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200907_6225",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200914_6085",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200918_6415",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200920_4405",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200922_1911",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200924_3289",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200926_1328",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200933_5967",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SQUADRA COMANDO",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804200936_7455",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200938_4525",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200941_1159",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200944_8208",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200947_1830",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200951_6365",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200962_7012",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200965_2741",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200968_1138",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200971_8929",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200973_1458",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200975_1949",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200977_4083",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200981_33",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SCALO ALAGGIO",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804200984_9851",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200986_3303",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200989_2518",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200990_2312",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200993_1257",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804200996_5388",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201001_7455",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201005_8786",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201009_2558",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201011_3587",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201013_2898",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201014_4454",
+                        "title": "Scalo alaggio boat lift",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Scalo%20alaggio%20boat%20lift.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201016_1439",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201018_6697",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201020_6517",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SATMM",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804201022_4066",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201024_1698",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201025_339",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201028_3426",
+                        "title": "Avarie e Manutenzioni",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Avarie%20e%20Manutenzioni.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201030_1314",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201034_8035",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201038_5605",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201042_6313",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201044_3742",
+                        "title": "Gestione motori e ausiliari",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Gestione%20motori%20e%20ausiliari.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201046_7147",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201047_351",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201050_7466",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201052_4358",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201054_2913",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201057_2514",
+                        "title": "Scalo alaggio boat lift",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Scalo%20alaggio%20boat%20lift.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201060_1573",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201062_2522",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201064_2390",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SATMM/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SALA OPERATIVA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804201066_8216",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201068_2829",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201070_2429",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201072_6095",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201074_8194",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201079_3213",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201087_9734",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201089_7198",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201092_4644",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201094_6684",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201095_8739",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201097_3046",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201099_4279",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "OFFICINA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790804201101_5320",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201104_6398",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201106_3209",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201109_8265",
+                        "title": "Avarie e Manutenzioni",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Avarie%20e%20Manutenzioni.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201111_7679",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201113_4111",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201116_4926",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201119_5886",
+                        "title": "Generici motori",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201123_4203",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201127_2774",
+                        "title": "Gestione motori e ausiliari",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Gestione%20motori%20e%20ausiliari.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201131_6621",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201137_6701",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201142_4590",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201146_7880",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201149_4577",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201152_8379",
+                        "title": "Scalo alaggio boat lift",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Scalo%20alaggio%20boat%20lift.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201157_7017",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201165_5896",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1790804201169_5997",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/OFFICINA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
