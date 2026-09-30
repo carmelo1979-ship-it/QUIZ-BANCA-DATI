@@ -13022,14 +13022,14 @@
             "prezzo_tutto": 0.99,
             "materie": [
               {
-                "id_materia": "personale_non_imbarcato",
-                "nome": "PERSONALE NON IMBARCATO",
+                "id_materia": "personale_imbarcato",
+                "nome": "PERSONALE IMBARCATO",
                 "prezzo_materia": 0.99,
                 "quiz": []
               },
               {
-                "id_materia": "personale_imbarcato",
-                "nome": "PERSONALE IMBARCATO",
+                "id_materia": "personale_non_imbarcato",
+                "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_materia": 0.99,
                 "quiz": []
               }
