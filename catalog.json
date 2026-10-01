@@ -6109,6 +6109,1200 @@
                     ]
                   }
                 ]
+              },
+              {
+                "nome": "PERSONALE IMBARCATO",
+                "prezzo_tutto": 0.99,
+                "sotto_categorie": [
+                  {
+                    "nome": "PETRUCCI",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884516939_2443",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516942_9036",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516946_8238",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516955_3101",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516962_6412",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516965_4637",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516969_6194",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516980_6475",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516988_8586",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884516994_5520",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517000_547",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517022_4584",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517038_4162",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517044_9834",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517047_9658",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517049_1533",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517054_3684",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/PETRUCCI/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "MONTI",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517057_1187",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517060_8858",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517064_2925",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517069_5609",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517072_2645",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517074_1669",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517082_8881",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517088_8818",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517090_796",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517093_5156",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517096_7859",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517099_3371",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517102_8622",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517106_3460",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517109_2664",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517112_1339",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517114_4034",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/MONTI/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "CORRUBIA III",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517117_7135",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517119_787",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517122_6296",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517131_4843",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517134_8131",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517137_837",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517140_736",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517146_8179",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517149_2269",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517153_6484",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517157_7786",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517160_1824",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517163_8311",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517166_5278",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517168_6039",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517171_4074",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517174_1155",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/CORRUBIA%20III/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BURATTI",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517178_1854",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517181_4055",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517185_5475",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517190_3396",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517192_7946",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517196_7012",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517200_8097",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517207_935",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517211_2684",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517215_1493",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517220_2588",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517222_6023",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517225_215",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517229_7494",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517232_4027",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517236_2060",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517239_4612",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BURATTI/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI VIII",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517242_9540",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517245_7292",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517248_5107",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517256_1549",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517260_4507",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517263_2936",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517267_9072",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517272_705",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517275_8141",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517280_4313",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517285_6979",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517287_4908",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517290_2041",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517293_6219",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517295_6777",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517298_9407",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517301_6233",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VIII/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI VII",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517306_7673",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517310_7996",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517316_2241",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517326_7411",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517335_7973",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517339_5456",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517345_1797",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517358_3608",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517363_1274",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517365_7119",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517369_9648",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517371_1643",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517374_1052",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517378_3728",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517381_5477",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517385_5819",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517388_8959",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VII/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI VI",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517391_1496",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517394_743",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517397_6810",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517403_3975",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517407_2655",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517410_2696",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517416_9552",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517424_4520",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517427_4033",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517431_7993",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517435_9481",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517438_5455",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517440_3775",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517443_4880",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517446_2230",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517449_7897",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517452_7356",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20VI/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI V",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517456_5280",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517460_5454",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517463_5692",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517468_3848",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517471_6122",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517474_4937",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517478_3265",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517485_7907",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517489_5104",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517492_6960",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517495_3985",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517498_1567",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517501_602",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517505_7612",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517508_977",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517513_7233",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517516_5963",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20V/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI IV",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517519_1630",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517522_4223",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517525_3281",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517531_4779",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517534_3915",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517537_656",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517541_3380",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517547_1666",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517550_3942",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517553_4408",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517558_642",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517562_1674",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517565_2555",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517568_2536",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517571_4805",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517575_884",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517578_520",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20IV/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BIGLIANI III",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517582_8463",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517585_5473",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517590_9422",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517594_1322",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517597_3548",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517599_3501",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517603_7548",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517611_8785",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517614_1144",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517617_494",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517621_5770",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517625_3342",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517628_8679",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517631_1619",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517634_3182",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517638_2730",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517642_8335",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BIGLIANI%20III/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "BANDIERA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1790884517645_7750",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517648_5865",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517651_148",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517657_4420",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517661_2398",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517665_6778",
+                        "title": "Carenamento",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517670_1494",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517676_211",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517682_1823",
+                        "title": "Impianti di bordo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517686_4995",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517691_6173",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517694_6613",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517697_1221",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517700_759",
+                        "title": "PMARR",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/PMARR.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517703_3349",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517707_271",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1790884517712_6206",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20dei%20sitemi%20elettronici/PERSONALE%20IMBARCATO/BANDIERA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
