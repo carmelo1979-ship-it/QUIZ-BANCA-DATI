@@ -64,6 +64,12 @@
                 "title": "STUPEFACENTI",
                 "price": 0.99,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/STUPEFACENTI.bin"
+              },
+              {
+                "id": "quiz_1791137421795_7711",
+                "title": "POLIZIA GIUDIZIARIA",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/POLIZIA%20GIUDIZIARIA.bin"
               }
             ]
           },
