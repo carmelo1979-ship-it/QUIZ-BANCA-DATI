@@ -11255,13 +11255,6 @@
                 "price": 0.99,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/vela/Telecomunicazioni%20e%20app.bin"
               }
-            ],
-            "materie": [
-              {
-                "nome": "Generale",
-                "id_materia": "generale",
-                "prezzo_tutto": 0.99
-              }
             ]
           },
           {
@@ -17360,6 +17353,468 @@
                         "title": "Telecomunicazioni e app",
                         "price": 0.99,
                         "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20IMBARCATO/BANDIERA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "nome": "PERSONALE NON IMBARCATO",
+                "prezzo_tutto": 0.99,
+                "sotto_categorie": [
+                  {
+                    "nome": "STL",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1791136938032_9974",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938053_7341",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938064_7035",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938091_5127",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938096_8906",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938106_4719",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938118_7504",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938121_4196",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938130_8437",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938134_1477",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938137_4724",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938140_2232",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938143_1217",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938146_4124",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/STL/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SQUADRA OPERATIVA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1791136938149_7232",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938155_3083",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938160_3773",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938162_9159",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938165_9476",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938169_4239",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938176_3594",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938183_9996",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938187_1905",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938189_7514",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938192_6235",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938195_2577",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938199_1391",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SQUADRA COMANDO",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1791136938204_3642",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938207_7274",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938210_8462",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938213_3663",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938216_3697",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938221_4485",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938234_9517",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938237_2033",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938241_8688",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938243_4506",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938245_3068",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938247_5717",
+                        "title": "Scritture e registri",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938252_3200",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938255_5657",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938259_7972",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SQUADRA%20COMANDO/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SCALO ALAGGIO",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1791136938262_6416",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938265_1499",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938267_8438",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938270_9026",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938272_680",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938279_973",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938285_3171",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938287_9586",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938290_9897",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938293_8952",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938295_1882",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938298_3838",
+                        "title": "Scalo alaggio boat lift",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Scalo%20alaggio%20boat%20lift.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938302_4720",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938305_2388",
+                        "title": "STL",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/STL.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938308_3117",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SCALO%20ALAGGIO/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "SALA OPERATIVA",
+                    "prezzo_tutto": 0.99,
+                    "quiz": [
+                      {
+                        "id": "quiz_1791136938311_9903",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938313_9111",
+                        "title": "Armi",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938315_3054",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938318_9022",
+                        "title": "C4I Sala Controllo Operativo",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/C4I%20Sala%20Controllo%20Operativo.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938321_6620",
+                        "title": "C4I",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/C4I.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938325_6862",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938330_4400",
+                        "title": "Carteggio ufficio",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938336_5374",
+                        "title": "Gestione materiali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938339_1803",
+                        "title": "Inglese",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938342_5143",
+                        "title": "Meteorologia",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938346_4386",
+                        "title": "Nautica",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938366_1353",
+                        "title": "Ormeggi navali",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938369_7723",
+                        "title": "SINAV",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1791136938380_9608",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0.99,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/nocchiere%20abilitato%20al%20comando/PERSONALE%20NON%20IMBARCATO/SALA%20OPERATIVA/Telecomunicazioni%20e%20app.bin"
                       }
                     ]
                   }
