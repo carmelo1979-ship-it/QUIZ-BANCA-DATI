@@ -7,6 +7,73 @@
         "prezzo_tutto": 0.99,
         "ruoli": [
           {
+            "nome": "area giuridica",
+            "id_ruolo": "area_giuridica",
+            "prezzo_tutto": 0.99,
+            "quiz": [
+              {
+                "id": "privato_standardizzazione_area_giuridica_nautica_da_diporto",
+                "title": "NAUTICA DA DIPORTO",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/NAUTICA%20DA%20DIPORTO.bin"
+              },
+              {
+                "id": "quiz_1791137421795_7711",
+                "title": "POLIZIA GIUDIZIARIA",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/POLIZIA%20GIUDIZIARIA.bin"
+              },
+              {
+                "id": "quiz_1791576809637_1871",
+                "title": "C.E.TE.",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/C.E.TE..bin"
+              },
+              {
+                "id": "quiz_1791576809639_4549",
+                "title": "CODICE DELLA NAVIGAZIONE",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CODICE%20DELLA%20NAVIGAZIONE.bin"
+              },
+              {
+                "id": "quiz_1791576809642_6215",
+                "title": "CONTRABBANDO DOGANALE",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CONTRABBANDO%20DOGANALE.bin"
+              },
+              {
+                "id": "quiz_1791576809659_7726",
+                "title": "CONTRASTO LAVORO SOMMERSO",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CONTRASTO%20LAVORO%20SOMMERSO.bin"
+              },
+              {
+                "id": "quiz_1791576809668_2317",
+                "title": "DIRITTO INTERNAZIONALE DEL MARE",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/DIRITTO%20INTERNAZIONALE%20DEL%20MARE.bin"
+              },
+              {
+                "id": "quiz_1791576809673_9095",
+                "title": "IMMIGRAZIONE CLANDESTINA",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/IMMIGRAZIONE%20CLANDESTINA.bin"
+              },
+              {
+                "id": "quiz_1791576809675_9940",
+                "title": "ORDINAMENTO MILITARE",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/ORDINAMENTO%20MILITARE.bin"
+              },
+              {
+                "id": "quiz_1791576809676_9508",
+                "title": "STUPEFACENTI",
+                "price": 0.99,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/STUPEFACENTI.bin"
+              }
+            ]
+          },
+          {
             "nome": "nocchiere",
             "id_ruolo": "nocchiere",
             "prezzo_tutto": 0.99,
