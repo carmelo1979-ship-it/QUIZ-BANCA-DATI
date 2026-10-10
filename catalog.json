@@ -18434,5 +18434,202 @@
         ]
       }
     ]
+  },
+  {
+    "categoria": "Forze Armate/Polizia",
+    "sotto_categorie": [
+      {
+        "nome": "G. di F",
+        "prezzo_tutto": 0.99,
+        "ruoli": [
+          {
+            "nome": "Allievo Finanziere",
+            "prezzo_tutto": 0.99,
+            "materie": [
+              {
+                "nome": "Educazione civica",
+                "prezzo_tutto": 0.99,
+                "quiz": [
+                  {
+                    "id": "quiz_1791668161598_5308",
+                    "title": "Educazione civica 1",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Educazione%20civica/Educazione%20civica%201.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161606_2409",
+                    "title": "Educazione civica 2",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Educazione%20civica/Educazione%20civica%202.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161627_2250",
+                    "title": "Educazione civica 3",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Educazione%20civica/Educazione%20civica%203.bin"
+                  }
+                ]
+              },
+              {
+                "nome": "Geografia",
+                "prezzo_tutto": 0.99,
+                "quiz": [
+                  {
+                    "id": "quiz_1791668161637_3190",
+                    "title": "Geografia 1",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Geografia/Geografia%201.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161643_5790",
+                    "title": "Geografia 2",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Geografia/Geografia%202.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161647_1272",
+                    "title": "Geografia 3",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Geografia/Geografia%203.bin"
+                  }
+                ]
+              },
+              {
+                "nome": "Grammatica",
+                "prezzo_tutto": 0.99,
+                "quiz": [
+                  {
+                    "id": "quiz_1791668161651_8860",
+                    "title": "Grammatica 1",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%201.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161659_777",
+                    "title": "Grammatica 2",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%202.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161662_2676",
+                    "title": "Grammatica 3",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%203.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161667_8620",
+                    "title": "Grammatica 4",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%204.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161670_1922",
+                    "title": "Grammatica 5",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%205.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161681_1536",
+                    "title": "Grammatica 6",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%206.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161687_2342",
+                    "title": "Grammatica 7",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%207.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161693_698",
+                    "title": "Grammatica 8",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Grammatica/Grammatica%208.bin"
+                  }
+                ]
+              },
+              {
+                "nome": "Logica_Matematica",
+                "prezzo_tutto": 0.99,
+                "quiz": [
+                  {
+                    "id": "quiz_1791668161700_626",
+                    "title": "Logica matematica (1)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(1).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161716_6047",
+                    "title": "Logica matematica (2)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(2).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161720_5995",
+                    "title": "Logica matematica (3)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(3).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161728_7617",
+                    "title": "Logica matematica (4)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(4).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161738_6770",
+                    "title": "Logica matematica (5)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(5).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161744_1015",
+                    "title": "Logica matematica (6)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(6).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161746_457",
+                    "title": "Logica matematica (7)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica%20(7).bin"
+                  },
+                  {
+                    "id": "quiz_1791668161748_5307",
+                    "title": "Logica matematica(8)",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Logica_Matematica/Logica%20matematica(8).bin"
+                  }
+                ]
+              },
+              {
+                "nome": "Storia",
+                "prezzo_tutto": 0.99,
+                "quiz": [
+                  {
+                    "id": "quiz_1791668161761_6208",
+                    "title": "Storia 1",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Storia/Storia%201.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161764_3949",
+                    "title": "Storia 2",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Storia/Storia%202.bin"
+                  },
+                  {
+                    "id": "quiz_1791668161766_355",
+                    "title": "Storia 3",
+                    "price": 0.99,
+                    "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Forze%20Armate/Polizia/G.%20di%20F/Allievo%20Finanziere/Storia/Storia%203.bin"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
