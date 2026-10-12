@@ -4,20 +4,23 @@
     "sotto_categorie": [
       {
         "nome": "Standardizzazione",
-        "prezzo_tutto": 0.99,
+        "prezzo_tutto": 1,
+        "price": 1,
         "ruoli": [
           {
             "nome": "nocchiere",
             "id_ruolo": "nocchiere",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "VAI 300 HYBRID",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994239_9678",
@@ -108,6 +111,7 @@
                   {
                     "nome": "VAI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994322_4587",
@@ -198,6 +202,7 @@
                   {
                     "nome": "V.900",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994359_3952",
@@ -288,6 +293,7 @@
                   {
                     "nome": "V.8000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994395_7656",
@@ -378,6 +384,7 @@
                   {
                     "nome": "V.800 III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994428_5519",
@@ -468,6 +475,7 @@
                   {
                     "nome": "V.800 II",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994468_7981",
@@ -558,6 +566,7 @@
                   {
                     "nome": "V.800 I",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994520_2791",
@@ -648,6 +657,7 @@
                   {
                     "nome": "V.7000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994557_6692",
@@ -738,6 +748,7 @@
                   {
                     "nome": "V.5000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994592_7116",
@@ -828,6 +839,7 @@
                   {
                     "nome": "V.3000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994626_1313",
@@ -918,6 +930,7 @@
                   {
                     "nome": "V.2000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994662_8633",
@@ -1008,6 +1021,7 @@
                   {
                     "nome": "V.1600",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994698_3131",
@@ -1098,6 +1112,7 @@
                   {
                     "nome": "V.1300 (RHIB)",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994754_1549",
@@ -1188,6 +1203,7 @@
                   {
                     "nome": "V.1100",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994790_5935",
@@ -1278,6 +1294,7 @@
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994823_5666",
@@ -1368,6 +1385,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994857_192",
@@ -1458,6 +1476,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994914_7120",
@@ -1548,6 +1567,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994948_739",
@@ -1638,6 +1658,7 @@
                   {
                     "nome": "BSO - MSF",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576994982_6516",
@@ -1728,6 +1749,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995018_5323",
@@ -1818,6 +1840,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995051_5805",
@@ -1908,6 +1931,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995086_5380",
@@ -1998,6 +2022,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995140_5368",
@@ -2088,6 +2113,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995173_9718",
@@ -2178,6 +2204,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995205_9770",
@@ -2268,6 +2295,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791576995243_3535",
@@ -2360,10 +2388,12 @@
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577014560_1056",
@@ -2448,6 +2478,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577014633_5201",
@@ -2526,6 +2557,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577014677_3609",
@@ -2616,6 +2648,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577014726_5855",
@@ -2706,6 +2739,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577014770_9628",
@@ -2794,15 +2828,17 @@
           {
             "nome": "tecnico dei sitemi elettronici",
             "id_ruolo": "tecnico_dei_sitemi_elettronici",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884373728_2152",
@@ -2899,6 +2935,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884373868_8515",
@@ -2989,6 +3026,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884373934_6160",
@@ -3091,6 +3129,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884374008_3076",
@@ -3193,6 +3232,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884374084_2656",
@@ -3289,6 +3329,7 @@
                   {
                     "nome": "OFFICINA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884374154_7883",
@@ -3393,10 +3434,12 @@
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884516939_2443",
@@ -3505,6 +3548,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517057_1187",
@@ -3613,6 +3657,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517117_7135",
@@ -3721,6 +3766,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517178_1854",
@@ -3829,6 +3875,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517242_9540",
@@ -3937,6 +3984,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517306_7673",
@@ -4045,6 +4093,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517391_1496",
@@ -4153,6 +4202,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517456_5280",
@@ -4261,6 +4311,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517519_1630",
@@ -4369,6 +4420,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517582_8463",
@@ -4477,6 +4529,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1790884517645_7750",
@@ -4589,15 +4642,17 @@
           {
             "nome": "tecnico di macchine",
             "id_ruolo": "tecnico_di_macchine",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "VAI 300 HYBRID",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684572_142",
@@ -4712,6 +4767,7 @@
                   {
                     "nome": "VAI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684676_3680",
@@ -4826,6 +4882,7 @@
                   {
                     "nome": "V.900",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684724_7112",
@@ -4940,6 +4997,7 @@
                   {
                     "nome": "V.8000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684773_105",
@@ -5054,6 +5112,7 @@
                   {
                     "nome": "V.800 III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684821_4392",
@@ -5168,6 +5227,7 @@
                   {
                     "nome": "V.800 II",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684867_4573",
@@ -5282,6 +5342,7 @@
                   {
                     "nome": "V.800 I",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684911_3466",
@@ -5396,6 +5457,7 @@
                   {
                     "nome": "V.7000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578684959_7011",
@@ -5510,6 +5572,7 @@
                   {
                     "nome": "V.5000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685032_8553",
@@ -5624,6 +5687,7 @@
                   {
                     "nome": "V.3000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685078_7407",
@@ -5738,6 +5802,7 @@
                   {
                     "nome": "V.2000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685126_6759",
@@ -5852,6 +5917,7 @@
                   {
                     "nome": "V.1600",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685172_4947",
@@ -5966,6 +6032,7 @@
                   {
                     "nome": "V.1300 (RHIB)",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685223_889",
@@ -6080,6 +6147,7 @@
                   {
                     "nome": "V.1100",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685270_5378",
@@ -6194,6 +6262,7 @@
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685334_7094",
@@ -6308,6 +6377,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685388_88",
@@ -6422,6 +6492,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685432_695",
@@ -6536,6 +6607,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685478_4912",
@@ -6650,6 +6722,7 @@
                   {
                     "nome": "BSO - MSF",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685524_8387",
@@ -6764,6 +6837,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685579_1887",
@@ -6878,6 +6952,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685627_7391",
@@ -6992,6 +7067,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685704_631",
@@ -7106,6 +7182,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685751_5832",
@@ -7220,6 +7297,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685795_8183",
@@ -7334,6 +7412,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685841_449",
@@ -7460,6 +7539,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578685894_2459",
@@ -7576,10 +7656,12 @@
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702172_4445",
@@ -7670,6 +7752,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702256_6039",
@@ -7754,6 +7837,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702307_2816",
@@ -7850,6 +7934,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702365_2702",
@@ -7946,6 +8031,7 @@
                   {
                     "nome": "SATMM",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702408_5306",
@@ -8060,6 +8146,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702459_6982",
@@ -8150,6 +8237,7 @@
                   {
                     "nome": "OFFICINA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578702495_5268",
@@ -8274,15 +8362,17 @@
           {
             "nome": "motorista navale",
             "id_ruolo": "motorista_navale",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "VAI 300 HYBRID",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244324_688",
@@ -8397,6 +8487,7 @@
                   {
                     "nome": "VAI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244409_8872",
@@ -8511,6 +8602,7 @@
                   {
                     "nome": "V.900",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244476_2069",
@@ -8625,6 +8717,7 @@
                   {
                     "nome": "V.8000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244522_5307",
@@ -8739,6 +8832,7 @@
                   {
                     "nome": "V.800 III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244594_960",
@@ -8853,6 +8947,7 @@
                   {
                     "nome": "V.800 II",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244641_2594",
@@ -8967,6 +9062,7 @@
                   {
                     "nome": "V.800 I",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244687_3754",
@@ -9081,6 +9177,7 @@
                   {
                     "nome": "V.7000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244736_8170",
@@ -9195,6 +9292,7 @@
                   {
                     "nome": "V.5000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244785_7096",
@@ -9309,6 +9407,7 @@
                   {
                     "nome": "V.3000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244832_5663",
@@ -9423,6 +9522,7 @@
                   {
                     "nome": "V.2000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244902_8605",
@@ -9537,6 +9637,7 @@
                   {
                     "nome": "V.1600",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244945_2004",
@@ -9651,6 +9752,7 @@
                   {
                     "nome": "V.1300 (RHIB)",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578244993_8855",
@@ -9765,6 +9867,7 @@
                   {
                     "nome": "V.1100",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245041_5042",
@@ -9879,6 +9982,7 @@
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245090_8196",
@@ -9993,6 +10097,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245140_7737",
@@ -10107,6 +10212,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245203_5566",
@@ -10221,6 +10327,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245257_4800",
@@ -10335,6 +10442,7 @@
                   {
                     "nome": "BSO - MSF",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245302_192",
@@ -10449,6 +10557,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245352_4909",
@@ -10563,6 +10672,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245398_2540",
@@ -10677,6 +10787,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245447_6184",
@@ -10791,6 +10902,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245495_6307",
@@ -10905,6 +11017,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245562_9161",
@@ -11019,6 +11132,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245605_8425",
@@ -11133,6 +11247,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578245649_4897",
@@ -11249,10 +11364,12 @@
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259540_9906",
@@ -11343,6 +11460,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259612_5204",
@@ -11427,6 +11545,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259662_8368",
@@ -11517,6 +11636,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259714_6324",
@@ -11613,6 +11733,7 @@
                   {
                     "nome": "SATMM",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259763_9501",
@@ -11727,6 +11848,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259812_6989",
@@ -11811,6 +11933,7 @@
                   {
                     "nome": "OFFICINA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791578259845_5502",
@@ -11934,15 +12057,17 @@
           },
           {
             "nome": "nocchiere abilitato al comando",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "VAI 300 HYBRID",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856632_1613",
@@ -12039,6 +12164,7 @@
                   {
                     "nome": "VAI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856702_7831",
@@ -12135,6 +12261,7 @@
                   {
                     "nome": "V.900",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856773_5750",
@@ -12231,6 +12358,7 @@
                   {
                     "nome": "V.8000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856811_4356",
@@ -12255,6 +12383,7 @@
                   {
                     "nome": "V.800 III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856818_8737",
@@ -12351,6 +12480,7 @@
                   {
                     "nome": "V.800 II",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856859_524",
@@ -12447,6 +12577,7 @@
                   {
                     "nome": "V.800 I",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856900_5665",
@@ -12543,6 +12674,7 @@
                   {
                     "nome": "V.7000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577856960_7490",
@@ -12639,6 +12771,7 @@
                   {
                     "nome": "V.5000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857001_4085",
@@ -12735,6 +12868,7 @@
                   {
                     "nome": "V.3000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857042_3381",
@@ -12831,6 +12965,7 @@
                   {
                     "nome": "V.2000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857081_5911",
@@ -12927,6 +13062,7 @@
                   {
                     "nome": "V.1600",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857123_5977",
@@ -13023,6 +13159,7 @@
                   {
                     "nome": "V.1300 (RHIB)",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857165_3600",
@@ -13119,6 +13256,7 @@
                   {
                     "nome": "V.1100",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857207_559",
@@ -13215,6 +13353,7 @@
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857269_7790",
@@ -13317,6 +13456,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857311_8215",
@@ -13413,6 +13553,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857350_387",
@@ -13509,6 +13650,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857388_6558",
@@ -13605,6 +13747,7 @@
                   {
                     "nome": "BSO - MSF",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857429_1348",
@@ -13701,6 +13844,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857468_6614",
@@ -13797,6 +13941,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857530_9456",
@@ -13893,6 +14038,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857573_4907",
@@ -13989,6 +14135,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857612_2591",
@@ -14085,6 +14232,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857656_2821",
@@ -14181,6 +14329,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857693_5417",
@@ -14277,6 +14426,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577857733_5142",
@@ -14375,10 +14525,12 @@
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577880600_1878",
@@ -14469,6 +14621,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577880723_5800",
@@ -14553,6 +14706,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577880771_2632",
@@ -14649,6 +14803,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577880823_1556",
@@ -14745,6 +14900,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577880865_2211",
@@ -14838,15 +14994,17 @@
           },
           {
             "nome": "operatori di sistema",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "materie": [
               {
                 "nome": "PERSONALE NON IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "STL",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334427_1791",
@@ -14943,6 +15101,7 @@
                   {
                     "nome": "SQUADRA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334488_4096",
@@ -15033,6 +15192,7 @@
                   {
                     "nome": "SQUADRA COMANDO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334539_605",
@@ -15135,6 +15295,7 @@
                   {
                     "nome": "SCALO ALAGGIO",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334583_3221",
@@ -15237,6 +15398,7 @@
                   {
                     "nome": "SALA OPERATIVA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334648_5324",
@@ -15333,6 +15495,7 @@
                   {
                     "nome": "OFFICINA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334689_9762",
@@ -15437,10 +15600,12 @@
               {
                 "nome": "PERSONALE IMBARCATO",
                 "prezzo_tutto": 0.99,
+                "price": 0.99,
                 "sotto_categorie": [
                   {
                     "nome": "VAI 300 HYBRID",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334728_96",
@@ -15549,6 +15714,7 @@
                   {
                     "nome": "VAI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334776_3219",
@@ -15657,6 +15823,7 @@
                   {
                     "nome": "V.900",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334823_4548",
@@ -15765,6 +15932,7 @@
                   {
                     "nome": "V.8000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334871_1992",
@@ -15873,6 +16041,7 @@
                   {
                     "nome": "V.800 III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334940_6446",
@@ -15981,6 +16150,7 @@
                   {
                     "nome": "V.800 II",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577334982_5159",
@@ -16089,6 +16259,7 @@
                   {
                     "nome": "V.800 I",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335027_1039",
@@ -16197,6 +16368,7 @@
                   {
                     "nome": "V.7000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335073_3929",
@@ -16305,6 +16477,7 @@
                   {
                     "nome": "V.5000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335120_8197",
@@ -16413,6 +16586,7 @@
                   {
                     "nome": "V.3000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335167_6379",
@@ -16521,6 +16695,7 @@
                   {
                     "nome": "V.2000",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335230_6125",
@@ -16629,6 +16804,7 @@
                   {
                     "nome": "V.1600",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335277_3135",
@@ -16737,6 +16913,7 @@
                   {
                     "nome": "V.1300 (RHIB)",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335322_1124",
@@ -16845,6 +17022,7 @@
                   {
                     "nome": "V.1100",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335367_3813",
@@ -16953,6 +17131,7 @@
                   {
                     "nome": "PETRUCCI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335411_9159",
@@ -17061,6 +17240,7 @@
                   {
                     "nome": "MONTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335461_4969",
@@ -17169,6 +17349,7 @@
                   {
                     "nome": "CORRUBIA III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335528_3863",
@@ -17277,6 +17458,7 @@
                   {
                     "nome": "BURATTI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335572_19",
@@ -17385,6 +17567,7 @@
                   {
                     "nome": "BSO - MSF",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335622_2286",
@@ -17409,6 +17592,7 @@
                   {
                     "nome": "BIGLIANI VIII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335628_8553",
@@ -17517,6 +17701,7 @@
                   {
                     "nome": "BIGLIANI VII",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335674_3951",
@@ -17625,6 +17810,7 @@
                   {
                     "nome": "BIGLIANI VI",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335721_6349",
@@ -17733,6 +17919,7 @@
                   {
                     "nome": "BIGLIANI V",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335768_8237",
@@ -17841,6 +18028,7 @@
                   {
                     "nome": "BIGLIANI IV",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335833_4567",
@@ -17949,6 +18137,7 @@
                   {
                     "nome": "BIGLIANI III",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335878_2696",
@@ -18057,6 +18246,7 @@
                   {
                     "nome": "BANDIERA",
                     "prezzo_tutto": 0.99,
+                    "price": 0.99,
                     "quiz": [
                       {
                         "id": "quiz_1791577335926_9189",
@@ -18168,7 +18358,7 @@
           },
           {
             "nome": "vela",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "quiz": [
               {
                 "id": "quiz_1791578611268_6968",
@@ -18270,7 +18460,7 @@
           },
           {
             "nome": "sommozzatore",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "quiz": [
               {
                 "id": "quiz_1791579052677_8702",
@@ -18366,7 +18556,7 @@
           },
           {
             "nome": "area giuridica",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 0,
             "quiz": [
               {
                 "id": "quiz_1791668265031_5524",
@@ -18439,15 +18629,16 @@
     "sotto_categorie": [
       {
         "nome": "G. di F",
-        "prezzo_tutto": 0.99,
+        "prezzo_tutto": 0,
         "ruoli": [
           {
             "nome": "Allievo Finanziere",
-            "prezzo_tutto": 0.99,
+            "prezzo_tutto": 1.49,
+            "price": 1.49,
             "materie": [
               {
                 "nome": "Educazione civica",
-                "prezzo_tutto": 0.99,
+                "prezzo_tutto": 0,
                 "quiz": [
                   {
                     "id": "quiz_1791668161598_5308",
@@ -18471,7 +18662,7 @@
               },
               {
                 "nome": "Geografia",
-                "prezzo_tutto": 0.99,
+                "prezzo_tutto": 0,
                 "quiz": [
                   {
                     "id": "quiz_1791668161637_3190",
@@ -18495,7 +18686,7 @@
               },
               {
                 "nome": "Grammatica",
-                "prezzo_tutto": 0.99,
+                "prezzo_tutto": 0,
                 "quiz": [
                   {
                     "id": "quiz_1791668161651_8860",
@@ -18549,7 +18740,7 @@
               },
               {
                 "nome": "Logica_Matematica",
-                "prezzo_tutto": 0.99,
+                "prezzo_tutto": 0,
                 "quiz": [
                   {
                     "id": "quiz_1791668161700_626",
@@ -18603,7 +18794,7 @@
               },
               {
                 "nome": "Storia",
-                "prezzo_tutto": 0.99,
+                "prezzo_tutto": 0,
                 "quiz": [
                   {
                     "id": "quiz_1791668161761_6208",
