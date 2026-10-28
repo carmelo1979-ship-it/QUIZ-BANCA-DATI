@@ -11463,12 +11463,6 @@
                     "price": 0.99,
                     "quiz": [
                       {
-                        "id": "quiz_1791578259612_5204",
-                        "title": "Antincendio e Sicurezza",
-                        "price": 0.99,
-                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
-                      },
-                      {
                         "id": "quiz_1791578259614_3114",
                         "title": "Armi",
                         "price": 0.99,
@@ -11539,6 +11533,12 @@
                         "title": "Telecomunicazioni e app",
                         "price": 0.99,
                         "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Telecomunicazioni%20e%20app.bin"
+                      },
+                      {
+                        "id": "quiz_1793177969766_6910",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
                       }
                     ]
                   },
