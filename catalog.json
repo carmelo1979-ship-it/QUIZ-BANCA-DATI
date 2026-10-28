@@ -11481,12 +11481,6 @@
                         "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Caratteristiche%20UUNN.bin"
                       },
                       {
-                        "id": "quiz_1791578259624_1472",
-                        "title": "Carteggio ufficio",
-                        "price": 0.99,
-                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Carteggio%20ufficio.bin"
-                      },
-                      {
                         "id": "quiz_1791578259629_3188",
                         "title": "Generici motori",
                         "price": 0.99,
@@ -11539,6 +11533,12 @@
                         "title": "Antincendio e Sicurezza",
                         "price": 0,
                         "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1793197276287_823",
+                        "title": "Carteggio ufficio",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/motorista%20navale/PERSONALE%20NON%20IMBARCATO/SQUADRA%20OPERATIVA/Carteggio%20ufficio.bin"
                       }
                     ]
                   },
