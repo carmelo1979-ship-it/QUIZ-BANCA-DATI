@@ -5644,102 +5644,6 @@
             ]
           },
           {
-            "nome": "sommozzatore",
-            "prezzo_tutto": 0,
-            "quiz": [
-              {
-                "id": "quiz_1791579052677_8702",
-                "title": "Antincendio e Sicurezza",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Antincendio%20e%20Sicurezza.bin"
-              },
-              {
-                "id": "quiz_1791579052685_8772",
-                "title": "Armi",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Armi.bin"
-              },
-              {
-                "id": "quiz_1791579052702_8093",
-                "title": "Attività Subacquea",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Attivit%C3%A0%20Subacquea.bin"
-              },
-              {
-                "id": "quiz_1791579052709_8325",
-                "title": "Attrezzatura e manovra",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Attrezzatura%20e%20manovra.bin"
-              },
-              {
-                "id": "quiz_1791579052718_235",
-                "title": "Caratteristiche UUNN",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Caratteristiche%20UUNN.bin"
-              },
-              {
-                "id": "quiz_1791579052720_6861",
-                "title": "Carenamento",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Carenamento.bin"
-              },
-              {
-                "id": "quiz_1791579052730_9022",
-                "title": "Carteggio ufficio",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Carteggio%20ufficio.bin"
-              },
-              {
-                "id": "quiz_1791579052743_6158",
-                "title": "Gestione materiali",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Gestione%20materiali.bin"
-              },
-              {
-                "id": "quiz_1791579052750_327",
-                "title": "Inglese",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Inglese.bin"
-              },
-              {
-                "id": "quiz_1791579052753_1425",
-                "title": "Meteorologia",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Meteorologia.bin"
-              },
-              {
-                "id": "quiz_1791579052759_3307",
-                "title": "Nautica",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Nautica.bin"
-              },
-              {
-                "id": "quiz_1791579052764_7821",
-                "title": "Ormeggi navali",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Ormeggi%20navali.bin"
-              },
-              {
-                "id": "quiz_1791579052766_9032",
-                "title": "Scritture e registri",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Scritture%20e%20registri.bin"
-              },
-              {
-                "id": "quiz_1791579052768_4097",
-                "title": "SINAV",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/SINAV.bin"
-              },
-              {
-                "id": "quiz_1791579052772_6580",
-                "title": "Telecomunicazioni e app",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Telecomunicazioni%20e%20app.bin"
-              }
-            ]
-          },
-          {
             "nome": "area giuridica",
             "prezzo_tutto": 0,
             "quiz": [
@@ -18480,6 +18384,102 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "nome": "sommozzatore",
+            "prezzo_tutto": 0,
+            "quiz": [
+              {
+                "id": "quiz_1793400178085_8214",
+                "title": "Antincendio e Sicurezza",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Antincendio%20e%20Sicurezza.bin"
+              },
+              {
+                "id": "quiz_1793400178092_288",
+                "title": "Armi",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Armi.bin"
+              },
+              {
+                "id": "quiz_1793400178102_1658",
+                "title": "Attività Subacquea",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Attivit%C3%A0%20Subacquea.bin"
+              },
+              {
+                "id": "quiz_1793400178105_964",
+                "title": "Attrezzatura e manovra",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Attrezzatura%20e%20manovra.bin"
+              },
+              {
+                "id": "quiz_1793400178110_5925",
+                "title": "Caratteristiche UUNN",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Caratteristiche%20UUNN.bin"
+              },
+              {
+                "id": "quiz_1793400178114_2098",
+                "title": "Carenamento",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Carenamento.bin"
+              },
+              {
+                "id": "quiz_1793400178130_4999",
+                "title": "Carteggio ufficio",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Carteggio%20ufficio.bin"
+              },
+              {
+                "id": "quiz_1793400178137_6647",
+                "title": "Gestione materiali",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Gestione%20materiali.bin"
+              },
+              {
+                "id": "quiz_1793400178145_3812",
+                "title": "Inglese",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Inglese.bin"
+              },
+              {
+                "id": "quiz_1793400178149_9090",
+                "title": "Meteorologia",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Meteorologia.bin"
+              },
+              {
+                "id": "quiz_1793400178155_2146",
+                "title": "Nautica",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Nautica.bin"
+              },
+              {
+                "id": "quiz_1793400178158_6674",
+                "title": "Ormeggi navali",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Ormeggi%20navali.bin"
+              },
+              {
+                "id": "quiz_1793400178160_6891",
+                "title": "Scritture e registri",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Scritture%20e%20registri.bin"
+              },
+              {
+                "id": "quiz_1793400178163_4910",
+                "title": "SINAV",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/SINAV.bin"
+              },
+              {
+                "id": "quiz_1793400178177_5429",
+                "title": "Telecomunicazioni e app",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/sommozzatore/Telecomunicazioni%20e%20app.bin"
               }
             ]
           }
