@@ -18559,64 +18559,64 @@
             "prezzo_tutto": 0,
             "quiz": [
               {
-                "id": "quiz_1791668265031_5524",
+                "id": "quiz_1793398650056_8303",
                 "title": "C.E.TE.",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/C.E.TE..bin"
               },
               {
-                "id": "quiz_1791668265050_6303",
+                "id": "quiz_1793398650059_4410",
                 "title": "CODICE DELLA NAVIGAZIONE",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CODICE%20DELLA%20NAVIGAZIONE.bin"
               },
               {
-                "id": "quiz_1791668265064_9704",
+                "id": "quiz_1793398650075_2875",
                 "title": "CONTRABBANDO DOGANALE",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CONTRABBANDO%20DOGANALE.bin"
               },
               {
-                "id": "quiz_1791668265071_1158",
+                "id": "quiz_1793398650079_6151",
+                "title": "CONTRASTO LAVORO SOMMERSO",
+                "price": 0,
+                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CONTRASTO%20LAVORO%20SOMMERSO.bin"
+              },
+              {
+                "id": "quiz_1793398650083_661",
                 "title": "DIRITTO INTERNAZIONALE DEL MARE",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/DIRITTO%20INTERNAZIONALE%20DEL%20MARE.bin"
               },
               {
-                "id": "quiz_1791668265074_732",
+                "id": "quiz_1793398650086_5071",
                 "title": "IMMIGRAZIONE CLANDESTINA",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/IMMIGRAZIONE%20CLANDESTINA.bin"
               },
               {
-                "id": "quiz_1791668265077_5297",
+                "id": "quiz_1793398650090_5626",
                 "title": "NAUTICA DA DIPORTO",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/NAUTICA%20DA%20DIPORTO.bin"
               },
               {
-                "id": "quiz_1791668265081_7006",
+                "id": "quiz_1793398650093_7331",
                 "title": "ORDINAMENTO MILITARE",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/ORDINAMENTO%20MILITARE.bin"
               },
               {
-                "id": "quiz_1791668265090_3124",
+                "id": "quiz_1793398650103_3957",
                 "title": "POLIZIA GIUDIZIARIA",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/POLIZIA%20GIUDIZIARIA.bin"
               },
               {
-                "id": "quiz_1791668265096_5142",
+                "id": "quiz_1793398650107_7996",
                 "title": "STUPEFACENTI",
-                "price": 0.99,
+                "price": 0,
                 "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/STUPEFACENTI.bin"
-              },
-              {
-                "id": "quiz_1791724737740_3906",
-                "title": "CONTRASTO LAVORO SOMMERSO",
-                "price": 0.99,
-                "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/area%20giuridica/CONTRASTO%20LAVORO%20SOMMERSO.bin"
               }
             ]
           }
