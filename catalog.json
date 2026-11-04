@@ -17404,6 +17404,348 @@
                         "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/VAI%20300%20HYBRID/Telecomunicazioni%20e%20app.bin"
                       }
                     ]
+                  },
+                  {
+                    "nome": "V.800 I",
+                    "prezzo_tutto": 0,
+                    "quiz": [
+                      {
+                        "id": "quiz_1793782592371_3774",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592387_7174",
+                        "title": "Armi",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592390_2465",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592394_2288",
+                        "title": "Avarie e Manutenzioni",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Avarie%20e%20Manutenzioni.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592408_4370",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592412_5959",
+                        "title": "Carenamento",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592422_6452",
+                        "title": "Carteggio ufficio",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592433_3951",
+                        "title": "Generici motori",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592440_1691",
+                        "title": "Gestione materiali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592445_6105",
+                        "title": "Gestione motori e ausiliari",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Gestione%20motori%20e%20ausiliari.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592454_8642",
+                        "title": "Impianti di bordo",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592457_4411",
+                        "title": "Inglese",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592460_8887",
+                        "title": "Meteorologia",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592465_6395",
+                        "title": "Nautica",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592468_7548",
+                        "title": "Ormeggi navali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592470_9958",
+                        "title": "Scritture e registri",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592478_6272",
+                        "title": "SINAV",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1793782592484_615",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20I/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "V.800 II",
+                    "prezzo_tutto": 0,
+                    "quiz": [
+                      {
+                        "id": "quiz_1793782625903_9300",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625918_4894",
+                        "title": "Armi",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625950_3607",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625970_9882",
+                        "title": "Avarie e Manutenzioni",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Avarie%20e%20Manutenzioni.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625976_6972",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625988_4329",
+                        "title": "Carenamento",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1793782625996_2270",
+                        "title": "Carteggio ufficio",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626002_9815",
+                        "title": "Generici motori",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626017_589",
+                        "title": "Gestione materiali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626022_6909",
+                        "title": "Gestione motori e ausiliari",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Gestione%20motori%20e%20ausiliari.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626026_7139",
+                        "title": "Impianti di bordo",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626030_3963",
+                        "title": "Inglese",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626034_786",
+                        "title": "Meteorologia",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626039_3142",
+                        "title": "Nautica",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626042_995",
+                        "title": "Ormeggi navali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626045_1887",
+                        "title": "Scritture e registri",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626047_4291",
+                        "title": "SINAV",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1793782626053_1135",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20II/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "V.800 III",
+                    "prezzo_tutto": 0,
+                    "quiz": [
+                      {
+                        "id": "quiz_1793782641212_4505",
+                        "title": "Antincendio e Sicurezza",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Antincendio%20e%20Sicurezza.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641239_6918",
+                        "title": "Armi",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Armi.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641250_3824",
+                        "title": "Attrezzatura e manovra",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Attrezzatura%20e%20manovra.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641255_351",
+                        "title": "Avarie e Manutenzioni",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Avarie%20e%20Manutenzioni.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641260_6720",
+                        "title": "Caratteristiche UUNN",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Caratteristiche%20UUNN.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641270_9123",
+                        "title": "Carenamento",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Carenamento.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641279_403",
+                        "title": "Carteggio ufficio",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Carteggio%20ufficio.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641287_7030",
+                        "title": "Generici motori",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Generici%20motori.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641299_356",
+                        "title": "Gestione materiali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Gestione%20materiali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641304_2177",
+                        "title": "Gestione motori e ausiliari",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Gestione%20motori%20e%20ausiliari.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641308_3371",
+                        "title": "Impianti di bordo",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Impianti%20di%20bordo.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641320_1157",
+                        "title": "Inglese",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Inglese.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641323_3265",
+                        "title": "Meteorologia",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Meteorologia.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641328_7339",
+                        "title": "Nautica",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Nautica.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641331_6741",
+                        "title": "Ormeggi navali",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Ormeggi%20navali.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641333_1436",
+                        "title": "Scritture e registri",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Scritture%20e%20registri.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641338_1792",
+                        "title": "SINAV",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/SINAV.bin"
+                      },
+                      {
+                        "id": "quiz_1793782641344_2101",
+                        "title": "Telecomunicazioni e app",
+                        "price": 0,
+                        "url": "https://raw.githubusercontent.com/carmelo1979-ship-it/QUIZ-BANCA-DATI/main/Privato/Standardizzazione/tecnico%20di%20macchine/PERSONALE%20IMBARCATO/V.800%20III/Telecomunicazioni%20e%20app.bin"
+                      }
+                    ]
                   }
                 ]
               },
